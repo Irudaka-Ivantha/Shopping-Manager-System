@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b99dfcb0-0714-4d9a-8b30-3d7b0f6f8b1c" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Main/src/UserFrame.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2ZCBpH6tsXEG6l93CfcYiU7QWsI" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.UserInterface.executor&quot;: &quot;Run&quot;,
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;JUnit.WestminsterShoppingManager.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.WestminsterShoppingManager.testAddClothingItem.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.WestminsterShoppingManager.testAddElectronicsItem.executor&quot;: &quot;Run&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Dell/Desktop/w1953903_20211348/w1953903_20211348_OOP_CW&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration name="UserInterface" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="19" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="UserInterface" />
+      <module name="CW" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WestminsterShoppingManager" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CW" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Test" />
+      <option name="MAIN_CLASS_NAME" value="Test.WestminsterShoppingManager" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WestminsterShoppingManager.testAddClothingItem" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CW" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Test" />
+      <option name="MAIN_CLASS_NAME" value="Test.WestminsterShoppingManager" />
+      <option name="METHOD_NAME" value="testAddClothingItem" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WestminsterShoppingManager.testAddElectronicsItem" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CW" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Test" />
+      <option name="MAIN_CLASS_NAME" value="Test.WestminsterShoppingManager" />
+      <option name="METHOD_NAME" value="testAddElectronicsItem" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.WestminsterShoppingManager" />
+        <item itemvalue="JUnit.WestminsterShoppingManager.testAddElectronicsItem" />
+        <item itemvalue="JUnit.WestminsterShoppingManager.testAddClothingItem" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-17.0.9-corretto-17.0.9-f644763e9732-ebaef533" />
+        <option value="jdk-19.0.2-corretto-19.0.2-f644763e9732-1e16d6ec" />
+        <option value="jdk-21.0.1-openjdk-21.0.1-f644763e9732-f98dd351" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b99dfcb0-0714-4d9a-8b30-3d7b0f6f8b1c" name="Changes" comment="" />
+      <created>1701916361377</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1701916361377</updated>
+      <workItem from="1701916362461" duration="158000" />
+      <workItem from="1702710973344" duration="1912000" />
+      <workItem from="1702822330005" duration="7072000" />
+      <workItem from="1702957283291" duration="2310000" />
+      <workItem from="1702998110575" duration="3027000" />
+      <workItem from="1703071331334" duration="10878000" />
+      <workItem from="1704169652601" duration="4365000" />
+      <workItem from="1704192073024" duration="3758000" />
+      <workItem from="1704201834716" duration="11665000" />
+      <workItem from="1704258529482" duration="6661000" />
+      <workItem from="1704277360834" duration="3925000" />
+      <workItem from="1704343251080" duration="2603000" />
+      <workItem from="1704352454124" duration="768000" />
+      <workItem from="1704369110879" duration="1382000" />
+      <workItem from="1704370723826" duration="5791000" />
+      <workItem from="1704425113055" duration="2814000" />
+      <workItem from="1704464837789" duration="5585000" />
+      <workItem from="1704521328817" duration="2464000" />
+      <workItem from="1704524053188" duration="59000" />
+      <workItem from="1704524123273" duration="14000" />
+      <workItem from="1704524147160" duration="260000" />
+      <workItem from="1704535497805" duration="55000" />
+      <workItem from="1704535568269" duration="21000" />
+      <workItem from="1704535605637" duration="692000" />
+      <workItem from="1704536393273" duration="127000" />
+      <workItem from="1704537046427" duration="2092000" />
+      <workItem from="1704548011780" duration="6347000" />
+      <workItem from="1704560564873" duration="2130000" />
+      <workItem from="1704610486949" duration="628000" />
+      <workItem from="1704732445654" duration="3584000" />
+      <workItem from="1704774891959" duration="7472000" />
+      <workItem from="1704795539816" duration="6609000" />
+      <workItem from="1704979751671" duration="7212000" />
+      <workItem from="1704991623617" duration="5778000" />
+      <workItem from="1705031722651" duration="15334000" />
+      <workItem from="1705056622421" duration="14608000" />
+      <workItem from="1705074052973" duration="19444000" />
+      <workItem from="1705117292890" duration="5182000" />
+      <workItem from="1705127423203" duration="906000" />
+      <workItem from="1705131031073" duration="22000" />
+      <workItem from="1705131061534" duration="40000" />
+      <workItem from="1705131115433" duration="38000" />
+      <workItem from="1705556389562" duration="23000" />
+      <workItem from="1705556513248" duration="68000" />
+      <workItem from="1705676744960" duration="1161000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
